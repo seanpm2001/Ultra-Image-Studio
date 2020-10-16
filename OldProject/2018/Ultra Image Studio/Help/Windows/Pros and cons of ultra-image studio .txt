@@ -1,0 +1,11 @@
+Pros and cons of this program
+
+Pros
+
+Images are always an exact file size
+Images are easy to work with
+
+Cons
+
+Images cannot be compressed
+Images take up massive amounts of memory

@@ -1,0 +1,10 @@
+8BUISVF100
+
+Or 
+
+8 Bit Ultra Image Studio Video Format
+
+a basic 8 bit video format
+
+for resolutions 1x1 to 1000000x1000000
+and frame rate 61-100 fps

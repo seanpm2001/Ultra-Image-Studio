@@ -1,0 +1,10 @@
+4BUISVF180
+
+Or 
+
+4 Bit Ultra Image Studio Video Format
+
+a basic 4 bit video format
+
+for resolutions 1x1 to 1000000x1000000
+and frame rate 101-180 fps

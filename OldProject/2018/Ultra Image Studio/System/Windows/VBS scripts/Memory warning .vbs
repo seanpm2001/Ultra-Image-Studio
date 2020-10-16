@@ -1,0 +1,1 @@
+x=msgbox("This program uses a lot of memory. Even low resolution images can take up over a gigabyte each. Check to make sure you have enough memory to make images here", 2+48, "Memory warning")
