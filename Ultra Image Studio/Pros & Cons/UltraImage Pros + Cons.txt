@@ -1,0 +1,15 @@
+UltraImage Pros and Cons
+
+Pros (5)
+
+* exact file size (to resolution and color bit)
+* not easily corruptable
+* high quality imaging
+* easy to edit
+* great for business
+
+Cons (3)
+
+* takes up a lot of memory
+* possible long rendering time (with certain RAM counts)
+* not compatible with certain old apps and operating systems (2012 and below)

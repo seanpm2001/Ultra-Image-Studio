@@ -1,0 +1,28 @@
+Memory guide
+
+Monochrome images
+
+144x256
+
+solve by:
+
+144 * 2 = 288 bytes
+288 * 256 = 73,728 bytes (73.7 Kilobytes)
+
+16 color images
+
+144x256
+
+solve by:
+
+144 * 16 = 2,304 bytes
+2304 * 256 = 589,824 bytes (589.8 kilobytes)
+
+256 color images
+
+144x256
+
+solve by
+
+144 * 256 = 38,864 bytes (38.8 Kilobytes)
+38,864 * 256 = 9,949,194 bytes (9.9 Megabytes)

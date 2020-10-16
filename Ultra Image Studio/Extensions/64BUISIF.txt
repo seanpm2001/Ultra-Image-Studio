@@ -1,0 +1,9 @@
+64BUISIF
+
+Or 
+
+64 Bit Ultra Image Studio Image Format
+
+a basic 64 bit image format
+
+for resolutions 1x1 to 1000000x1000000

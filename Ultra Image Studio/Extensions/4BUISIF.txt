@@ -1,0 +1,9 @@
+4BUISIF
+
+Or 
+
+4 Bit Ultra Image Studio Image Format
+
+a basic 4 bit image format
+
+for resolutions 1x1 to 1000000x1000000

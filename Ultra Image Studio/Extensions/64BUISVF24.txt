@@ -1,0 +1,10 @@
+64BUISVF24
+
+Or 
+
+64 Bit Ultra Image Studio Video Format
+
+a basic 64 bit video format
+
+for resolutions 1x1 to 1000000x1000000
+and frame rate 1-24 fps
